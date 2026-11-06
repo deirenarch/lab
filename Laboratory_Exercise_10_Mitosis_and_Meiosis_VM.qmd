@@ -133,7 +133,7 @@ During this activity you will work in *pairs.*
 | Interphase | 234                   |                 |             |
 | Prophase   | 4                     |                 |             |
 | Metaphase  | 32                    |                 |             |
-| Anaphase   |                       |                 |             |
+| Anaphase   | 476                   |                 |             |
 | Telophase  |                       |                 |             |
 | Total      |                       |                 | 100%        |
 
